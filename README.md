@@ -1,8 +1,8 @@
-### Hi there, I'm [Lucas](https:/lhfdv.github.io) 👋
+### HELLO THERE 👋
 
 <br />
 
-Hi, I'm Lucas Franco, a passionate self-taught WWeb Developer from Brazil.
+Hi, I'm Lucas Franco, a passionate self-taught Web Developer from Brazil. My passion for programming is strong, always dreaming up ideas and making them come true with elegant interfaces and robust code, or so I hope.
 
 - 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues)
 
