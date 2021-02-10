@@ -1,10 +1,3 @@
----
-title: lhfdv
-date: '2021-02-10'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'lhfdv'
----
 ### Hi there, I'm [Lucas](https:/lhfdv.github.io) 👋
 
 <br />
