@@ -11,7 +11,6 @@ githubUsername: 'lhfdv'
 
 Hi, I'm Lucas Franco, a passionate self-taught WWeb Developer from Brazil.
 
-- 🌱 I’m currently learning GraphQL & Typescript
 - 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues)
 
 **Languages and Tools:**  
