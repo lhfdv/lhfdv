@@ -6,7 +6,7 @@
 
 Hi, I'm Lucas Franco, a passionate self-taught Web Developer from Brazil. My passion for programming is strong, always dreaming up ideas and making them come true with elegant interfaces and robust code, or so I hope.
 
-- 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues)
+- 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-h-franco-35a6bb17a/), [Email](mailTo:lhfranco@protonmail.com).
 
 **Languages and Tools:**  
