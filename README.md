@@ -1,6 +1,6 @@
-### HELLO THERE 👋
+### Since you are here, stay for a while :bamboo:
 
-<code><img src="https://img.shields.io/badge/VIERA-LOVER-brightgreen"></code>
+<code><img src="https://img.shields.io/badge/VIERA-LOVER-brightgreen"></code> 
 
 <br />
 
