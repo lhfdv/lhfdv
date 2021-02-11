@@ -1,7 +1,5 @@
 ### Since you are here, stay for a while :bamboo:
 
-<code><img src="https://img.shields.io/badge/VIERA-LOVER-brightgreen"></code> 
-
 <br />
 
 Hi, I'm Lucas Franco, a passionate self-taught Developer from Brazil. My passion for programming is strong, always dreaming up ideas and making them come true with elegant interfaces and robust code, or so I hope.
