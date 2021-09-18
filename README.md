@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Lucas, a passionate self-taught Developer from Brazil. My passion for programming is strong, always dreaming up ideas and making them come true with elegant interfaces and robust code, or so I hope.
+Hi, I'm Lucas, a passionate self-taught Developer from Brazil and a Security Analyst.
 
 - 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues).
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/lhfranco), [Email](mailTo:lhfranco.dev@gmail.com).
