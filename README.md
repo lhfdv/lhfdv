@@ -5,7 +5,7 @@
 Hi, I'm Lucas, a passionate self-taught Developer from Brazil and a Security Analyst.
 
 - 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues).
-- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/lhfranco), [Email](mailTo:lhfranco@disroot.org).
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/lhfranco), [Email](mailTo:lhfranco@disroot.org), PGP: 3C0A 79F4 9F64 6007
 
 **Languages and Tools:**  
 
