@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Lucas (lhfdv), self-taught Developer from Brazil and a Security Analyst.
+Hi, I'm Lucas (lhfdv), self-taught Developer from Brazil and a Security Analyst. FLOSS enthusiast. Passion for learning languages.
 
 - 💬 Ask me about anything [here](https://github.com/lhfdv/lhfdv/issues).
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/lhfranco), lhfranco@disroot.org, PGP: 3C0A 79F4 9F64 6007
